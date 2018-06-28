@@ -1,0 +1,3 @@
+test.CheckComboRenderer
+test.CheckCombo
+test.CheckComboStore
